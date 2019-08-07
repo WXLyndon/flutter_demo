@@ -1,6 +1,6 @@
-# example
+# Flutter basic demo
 
-A new Flutter project.
+A Flutter project wrote by following the instructions on https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1.
 
 ## Getting Started
 
